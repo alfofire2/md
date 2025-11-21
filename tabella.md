@@ -5,7 +5,7 @@
 
 |Stato | Punto richiesto dal cliente | Ore stimate | Costo stimato |
 |---------------------------|-----------------------------|-------------|----------------|
-| 🟠 IN LAVORAZIONE | da desktop la descrizione breve nella pagina prodotto viene mostrata in colore grigio anziché nero | 1 h | 40 euro |
+| 🟢 FATTO | da desktop la descrizione breve nella pagina prodotto viene mostrata in colore grigio anziché nero | 1 h | 40 euro |
 | 🟥 DA FARE | il pulsante scroll to top non funziona correttamente | 1.5 h | 60 euro |
 | 🟥 DA FARE | creare filtro laterale “mostra solo in pronta consegna” come quello disponibili ma escludendo su ordinazione | 3 h | 120 euro |
 | 🟥 DA FARE | riportare il tag “su ordinazione” dentro la pagina prodotto | 1 h | 40 euro |
