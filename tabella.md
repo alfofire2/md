@@ -20,7 +20,7 @@
 | 🟢 FATTO | nel tasto condividi rimuovere X e inserire whatsapp e instagram | 1 h | 40 euro | 50 m | 40 euro |
 | 🟥 DA FARE | nella homepage bug visivo angoli smussati rettangolo viola | 1 h | 40 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | nei prodotti in preorder rinominare tasto preorder in aggiungi al carrello ovunque | 1 h | 40 euro | 0.0 h | 0 euro |
-| 🟢 FATTO | immagine prodotto e correlati non caricano correttamente da tablet alcune volte | 3 h | 120 euro | 10 h | 400 euro |
+| 🟢 FATTO | immagine prodotto e correlati non caricano correttamente da tablet alcune volte | 3 h | 120 euro | 11 h | 360 euro |
 | 🟥 DA FARE | su mobile e tablet manca un lato del rettangolo lilla contenitore immagine | 1.5 h | 60 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | da pc nel megamenu bandina bianca in fondo | 1 h | 40 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | inserire dicitura “su ordinazione” nel carrello e nelle mail | 2 h | 80 euro | 0.0 h | 0 euro |
