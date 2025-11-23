@@ -5,7 +5,7 @@
 
 |Stato | Punto richiesto dal cliente | Ore stimate | Costo stimato | Ore effettive | Costo effettivo |
 |---------------------------|-----------------------------|-------------|----------------|-------------|----------------|
-| 🟢 FATTO | da desktop la descrizione breve nella pagina prodotto viene mostrata in colore grigio anziché nero | 1 h | 40 euro | 50 m | 40 euro |
+| 🟢 FATTO | da desktop la descrizione breve nella pagina prodotto viene mostrata in colore grigio anziché nero | 1 h | 40 euro | 45 m | 40 euro |
 | 🟥 DA FARE | il pulsante scroll to top non funziona correttamente | 1.5 h | 60 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | creare filtro laterale “mostra solo in pronta consegna” come quello disponibili ma escludendo su ordinazione | 3 h | 120 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | riportare il tag “su ordinazione” dentro la pagina prodotto | 1 h | 40 euro | 0.0 h | 0 euro |
@@ -17,7 +17,7 @@
 | 🟥 DA FARE | gift card sopra 65 non attivano la spedizione gratuita, sistemare | 1.5 h | 60 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | rendere visibile la personalizzazione varianti come taglie nel tema | 2.5 h | 100 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | in woocommerce ordini alcuni prodotti in backorder non compaiono nella colonna dedicata | 2 h | 80 euro | 0.0 h | 0 euro |
-| 🟢 FATTO | nel tasto condividi rimuovere X e inserire whatsapp e instagram | 1 h | 40 euro | 30 m | 20 euro |
+| 🟢 FATTO | nel tasto condividi rimuovere X e inserire whatsapp e instagram | 1 h | 40 euro | 50 m | 40 euro |
 | 🟥 DA FARE | nella homepage bug visivo angoli smussati rettangolo viola | 1 h | 40 euro | 0.0 h | 0 euro |
 | 🟥 DA FARE | nei prodotti in preorder rinominare tasto preorder in aggiungi al carrello ovunque | 1 h | 40 euro | 0.0 h | 0 euro |
 | 🟢 FATTO | immagine prodotto e correlati non caricano correttamente da tablet alcune volte | 3 h | 120 euro | 10 h | 400 euro |
